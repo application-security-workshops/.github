@@ -35,8 +35,8 @@ This workshop shows how authentication, authorization and security requirements 
 
 ## Workshop Requirements
 
-- PC with .NET Core 7 SDK and Visual Studio 2022/Visual Studio Code installed
-- NodeJS LTS version 16/18
+- PC with .NET Core 9 SDK and Visual Studio 2022/Visual Studio Code installed
+- NodeJS LTS version 20
 - Internet WLAN connection
 - GitHub account
 
