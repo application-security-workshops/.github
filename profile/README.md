@@ -1,8 +1,8 @@
-# Application Security Workshop
+# Application security workshop
 
 A two day security workshop for developers and architects.
 
-## Day 1: Application Security Workshop
+## Day 1: Application security workshop
 
 - 08:30 - 12:00
   - Introduction, goals of the workshop
@@ -15,7 +15,7 @@ A two day security workshop for developers and architects.
   - API authorization
   - Securing SPA applications
 
-## Day 2: Architecture Security Workshop
+## Day 2: Architecture security workshop
 
 - 08:30 - 12:00
   - Introduction, goals of the workshop
@@ -29,7 +29,7 @@ A two day security workshop for developers and architects.
   - API Authorization advanced
   - Authorization architecture
 
-# Day 1: Application security Workshop
+# Day 1: Application security workshop
 
 This workshop shows how authentication, authorization and security requirements can be implemented using ASP.NET Core and Azure DevOps with different identity providers. Some of the different approaches when implementing these in SPAs, or ASP.NET Core Razor/MVC will be explained as well as the different OpenID Connect/OAuth flows which should be used or can be used for these types of solutions.
 
