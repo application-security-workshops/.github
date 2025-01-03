@@ -6,7 +6,7 @@ A two day security workshop for developers and architects.
 
 - 08:30 - 12:00
   - Introduction, goals of the workshop
-  - Application Security Overview
+  - Application security overview
   - OpenID Connect, OAUTH flows
 - lunch
 - 13:15 - 18:00
