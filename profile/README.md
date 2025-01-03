@@ -74,8 +74,8 @@ This workshop shows how security architecture requirements can be planned and de
 
 ## Workshop Requirements
 
-- PC with .NET Core 7 SDK and Visual Studio 2022/Visual Studio Code installed
-- NodeJS LTS version 16/18
+- PC with .NET Core 9 SDK and Visual Studio 2022/Visual Studio Code installed
+- NodeJS LTS version 20
 - Internet WLAN connection
 - GitHub account
 - Personal Azure tenant (create, if not yet done under https://my.visualstudio.com/ by clicking `Activate` on `Azure - $150 monthly credit`)
