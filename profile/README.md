@@ -104,7 +104,7 @@ Choosing the right identity provider for your software solution is not easy. Thi
 
 This module provides an overview of GitHub features with a focus on security features and goes into detail in the context of DevOps security. In particular, in the area of GitHub actions.
 
-## API Authorization Advanced
+## API authorization advanced
 
 This module looks at implementing authorization for APIs, exploring things like delegated user definitions or application access tokens, Other topics like implementing and using the on behalf of flow and using Azure continuous access in your applications are explained as well as general or advanced API security topics.
 
