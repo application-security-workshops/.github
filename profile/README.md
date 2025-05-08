@@ -35,9 +35,9 @@ This workshop shows how authentication, authorization and security requirements 
 
 ## Workshop requirements
 
-- PC with .NET Core 9 SDK and Visual Studio 2022/Visual Studio Code installed
-- NodeJS LTS version 20
-- Internet WLAN connection
+- PC with .NET Core 9 SDK and Visual Studio 2022 or Visual Studio Code installed
+- NodeJS LTS version 18/20/22
+- Internet WLAN connection (Guest WiFi provided by isolutions)
 - GitHub account
 
 ## Introduction, goals of the workshop
