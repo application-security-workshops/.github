@@ -2,7 +2,7 @@
 
 A two day security workshop for developers and architects.
 
-## Day 1: Application security
+## Day 1: Application security workshop
 
 - 08:30 - 12:00
   - Introduction, goals of the workshop
@@ -15,7 +15,7 @@ A two day security workshop for developers and architects.
   - API authorization
   - Securing SPA applications
 
-## Day 2: Architecture security
+## Day 2: Architecture security workshop
 
 - 08:30 - 12:00
   - Introduction, goals of the workshop
@@ -29,7 +29,7 @@ A two day security workshop for developers and architects.
   - API Authorization advanced
   - Authorization architecture
 
-# Day 1: Application security
+# Day 1: Application security workshop
 
 This workshop shows how authentication, authorization and security requirements can be implemented using ASP.NET Core and Azure DevOps with different identity providers. Some of the different approaches when implementing these in SPAs, or ASP.NET Core Razor/MVC will be explained as well as the different OpenID Connect/OAuth flows which should be used or can be used for these types of solutions.
 
@@ -68,7 +68,7 @@ This module looks at implementing authorization for APIs, exploring the differen
 
 Securing single page applications is hard. This is no common recommended best practice for securing SPA applications. This module shows the current recommendations for implementing security in SPAs and things like the backend for frontend architecture (BFF) will be explained.
 
-# Day 2: Architecture security
+# Day 2: Architecture security workshop
 
 This workshop shows how security architecture requirements can be planned and designed using ASP.NET Core and Azure DevOps with different identity providers. Some of the different approaches when designing these in cloud solutions, high security architectures will be explained as well as the different OpenID Connect/OAuth flows which should be used or can be used for these types of solutions.
 
